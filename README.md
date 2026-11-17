@@ -5,6 +5,10 @@ MCP server menu in the Harness status bar: every configured server, its live sta
 DSH bundle (DeepSeek Harness plugin). Host side in `index.js`, optional Web UI in `client.js` / `client.bundle.js`,
 loaded through `cordis.patch.yml` (`dsh.bundle.patch` in package.json).
 
+## Screenshots
+
+![MCP server menu](docs/screenshots/mcp-menu.png)
+
 ## Install
 
 In DSH, open **Plugins** and install from a git source:
